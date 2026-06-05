@@ -1,0 +1,76 @@
+2026-06-05 18:36:36,900 INFO === Scraper started at 2026-06-05T18:36:36.900445 ===
+2026-06-05 18:36:36,901 INFO Loaded 0 existing records from CSV
+2026-06-05 18:36:36,902 INFO Fetching root catalog...
+2026-06-05 18:36:38,137 INFO Found: Troy-Bilt
+2026-06-05 18:36:38,621 INFO Found: 11-Push Walk-Behind Mowers
+2026-06-05 18:36:39,105 INFO Target year folders: ['2025 Models', '2024 Models']
+2026-06-05 18:36:39,105 INFO Processing 2025 Models...
+2026-06-05 18:36:39,590 INFO   2 models found
+2026-06-05 18:36:39,590 INFO   Model: 11A-02BT066 TB90B (2025)
+2026-06-05 18:36:40,081 INFO   12 assemblies to scrape
+2026-06-05 18:36:49,522 INFO   Model: 11A-A2C2066 TB120C (2025)
+2026-06-05 18:36:50,978 INFO   19 assemblies to scrape
+2026-06-05 18:37:05,523 INFO Processing 2024 Models...
+2026-06-05 18:37:06,009 INFO   2 models found
+2026-06-05 18:37:06,010 INFO   Model: 11A-A0BP766 TB105B (2024)
+2026-06-05 18:37:06,497 INFO   16 assemblies to scrape
+2026-06-05 18:37:21,143 INFO   Model: 11A-A2BM766 TB120B (2024)
+2026-06-05 18:37:21,645 INFO   17 assemblies to scrape
+2026-06-05 18:37:34,334 INFO === Done in 57.4s | collected=379 new=370 updated=9 errors=0 total_in_csv=370 ===
+2026-06-05 18:38:23,145 INFO === Scraper started at 2026-06-05T18:38:23.144001 ===
+2026-06-05 18:38:23,145 INFO Loaded 0 existing records from CSV
+2026-06-05 18:38:23,145 INFO Fetching root catalog...
+2026-06-05 18:38:24,329 INFO Found: Troy-Bilt
+2026-06-05 18:38:24,832 INFO Found: 11-Push Walk-Behind Mowers
+2026-06-05 18:38:25,321 INFO Target year folders: ['2025 Models', '2024 Models']
+2026-06-05 18:38:25,321 INFO Processing 2025 Models...
+2026-06-05 18:38:25,810 INFO   2 models found
+2026-06-05 18:38:25,810 INFO   Model: 11A-02BT066 TB90B (2025)
+2026-06-05 18:38:26,295 INFO   12 assemblies to scrape
+2026-06-05 18:38:35,759 INFO   Model: 11A-A2C2066 TB120C (2025)
+2026-06-05 18:38:37,241 INFO   19 assemblies to scrape
+2026-06-05 18:38:51,821 INFO Processing 2024 Models...
+2026-06-05 18:38:52,306 INFO   2 models found
+2026-06-05 18:38:52,306 INFO   Model: 11A-A0BP766 TB105B (2024)
+2026-06-05 18:38:52,789 INFO   16 assemblies to scrape
+2026-06-05 18:39:05,182 INFO   Model: 11A-A2BM766 TB120B (2024)
+2026-06-05 18:39:05,667 INFO   17 assemblies to scrape
+2026-06-05 18:39:18,658 INFO === Done in 55.5s | collected=379 new=378 updated=1 errors=0 total_in_csv=378 ===
+2026-06-05 18:41:00,229 INFO === Scraper started at 2026-06-05T18:41:00.229783 ===
+2026-06-05 18:41:00,229 INFO Loaded 0 existing records from CSV
+2026-06-05 18:41:00,229 INFO Fetching root catalog...
+2026-06-05 18:41:01,441 INFO Found: Troy-Bilt
+2026-06-05 18:41:01,925 INFO Found: 11-Push Walk-Behind Mowers
+2026-06-05 18:41:02,411 INFO Target year folders: ['2025 Models', '2024 Models']
+2026-06-05 18:41:02,411 INFO Processing 2025 Models...
+2026-06-05 18:41:02,892 INFO   2 models found
+2026-06-05 18:41:02,892 INFO   Model: 11A-02BT066 TB90B (2025)
+2026-06-05 18:41:03,383 INFO   12 assemblies to scrape
+2026-06-05 18:41:13,055 INFO   Model: 11A-A2C2066 TB120C (2025)
+2026-06-05 18:41:14,511 INFO   19 assemblies to scrape
+2026-06-05 18:41:28,957 INFO Processing 2024 Models...
+2026-06-05 18:41:29,442 INFO   2 models found
+2026-06-05 18:41:29,442 INFO   Model: 11A-A0BP766 TB105B (2024)
+2026-06-05 18:41:29,929 INFO   16 assemblies to scrape
+2026-06-05 18:41:43,548 INFO   Model: 11A-A2BM766 TB120B (2024)
+2026-06-05 18:41:44,038 INFO   17 assemblies to scrape
+2026-06-05 18:41:57,198 INFO === Done in 57.0s | collected=379 new=369 updated=10 errors=0 total_in_csv=369 ===
+2026-06-05 18:42:13,610 INFO === Scraper started at 2026-06-05T18:42:13.610896 ===
+2026-06-05 18:42:13,615 INFO Loaded 369 existing records from CSV
+2026-06-05 18:42:13,615 INFO Fetching root catalog...
+2026-06-05 18:42:14,794 INFO Found: Troy-Bilt
+2026-06-05 18:42:15,278 INFO Found: 11-Push Walk-Behind Mowers
+2026-06-05 18:42:15,764 INFO Target year folders: ['2025 Models', '2024 Models']
+2026-06-05 18:42:15,764 INFO Processing 2025 Models...
+2026-06-05 18:42:16,253 INFO   2 models found
+2026-06-05 18:42:16,253 INFO   Model: 11A-02BT066 TB90B (2025)
+2026-06-05 18:42:16,739 INFO   12 assemblies to scrape
+2026-06-05 18:42:27,776 INFO   Model: 11A-A2C2066 TB120C (2025)
+2026-06-05 18:42:29,247 INFO   19 assemblies to scrape
+2026-06-05 18:42:44,636 INFO Processing 2024 Models...
+2026-06-05 18:42:45,122 INFO   2 models found
+2026-06-05 18:42:45,122 INFO   Model: 11A-A0BP766 TB105B (2024)
+2026-06-05 18:42:45,614 INFO   16 assemblies to scrape
+2026-06-05 18:42:58,758 INFO   Model: 11A-A2BM766 TB120B (2024)
+2026-06-05 18:42:59,266 INFO   17 assemblies to scrape
+2026-06-05 18:43:12,445 INFO === Done in 58.8s | collected=379 new=0 updated=13 errors=0 total_in_csv=369 ===

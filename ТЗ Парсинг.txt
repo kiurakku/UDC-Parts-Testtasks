@@ -1,0 +1,37 @@
+Спарсити мануали з сайту https://www.genuinefactoryparts.com/en_US/ari-partstream.html
+
+
+інформація відображається внизу сторінки
+
+
+при натисканні відображається наступне
+
+
+необхідно спарсити мануали по цьому шляху: 
+MTD Merged Data Staging - Troy-Bilt - 11-Push Walk-Behind Mowers - беремо 2024-2025 Models
+
+
+
+
+
+
+У моделі може бути кілька мануалів (приклад на скріні), беремо Assemblies 
+
+
+
+парсимо інформацію з усіх схем
+
+
+
+
+В отриманому файлі має бути повний шлях до схеми:
+MTD Merged Data Staging - Troy-Bilt - 11-Push Walk-Behind Mowers - 2026 Models - 11A-A2C2066 TB120C (2026) - Assemblies for 11A-A2C2066 TB120C (2026) - Blade
+
+
+
+а також інформація по parts:
+ОЕМ
+
+
+опис деталі
+
